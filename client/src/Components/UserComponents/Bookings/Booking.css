@@ -1,0 +1,6 @@
+.bookings{
+    margin: auto;
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+}

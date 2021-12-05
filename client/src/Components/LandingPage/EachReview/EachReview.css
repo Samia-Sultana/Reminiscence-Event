@@ -1,0 +1,13 @@
+.reviewCard{
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;;
+
+}
+.reviewImg{
+    padding-top: 15px;
+    width: 50%;
+    margin: auto;
+    border-radius: 50%;
+}
+.reviewText{
+    text-align: justify;
+}

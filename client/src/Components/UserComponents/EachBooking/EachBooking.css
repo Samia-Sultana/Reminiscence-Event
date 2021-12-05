@@ -1,0 +1,22 @@
+.eachBooking{
+    width: 400px;
+    height: 150px;
+    border: 1px solid red;
+    margin-top: 50px;
+    margin-right: 40px;
+    border-radius: 10px ;
+    background-color: lavender;
+    padding: 15px;
+}
+p{
+    word-wrap: break-word
+}
+.status{
+    text-align: center;
+    background-color: lightcoral;
+    padding: 5px;
+    border-radius: 5px;
+}
+.eachBooking > *{
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+.header{
+    width: inherit;
+    height: 550px;
+    position: relative;
+    color:white;
+}
+.header >{
+    position: absolute;
+}
+.header >:nth-child(2){
+    top:-140px;
+    z-index: -1;
+    
+}
+.landingPage{
+    width: inherit;
+    overflow-x: hidden;
+}

@@ -1,0 +1,40 @@
+.footer{
+    background-color: rgb(34, 30, 30);
+    color: white;
+    margin-top: 50px;
+}
+.footerRow1{
+    padding-top: 50px;
+    padding-left: 40px;
+}
+.footerRow2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+.footer h3{
+    padding-bottom: 30px;
+}
+.platformBtn{
+    margin-right: 10px;
+}
+.usefulLink{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.usefulLink:hover{
+    color:chocolate;
+}
+.projectImage{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.projectImage > img{
+    padding-right: 5px;
+    width: 130px;
+    height: 100px;
+    object-fit: contain;
+}

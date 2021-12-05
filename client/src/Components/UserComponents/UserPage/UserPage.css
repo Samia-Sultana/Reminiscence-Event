@@ -1,0 +1,13 @@
+.userPage{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background: linear-gradient(to bottom right, #ffcc99 0%, #ff99cc 100%);
+}
+.userNavbar{
+    
+}
+.pageContent{
+    width: 100%;
+    height: 80%;
+}

@@ -1,0 +1,48 @@
+.aboutUs{
+    width: 100%;
+    margin: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 600px;
+    z-index: -1;
+    background-color: rgb(223, 219, 219);
+  
+}
+.teamImages{
+    height: 100%; 
+}
+.teamInfo{
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.moreButton{
+    padding-left: 45px ;
+    padding-right: 45px;
+    padding-top:8px ;
+    padding-bottom:8px ;
+    background-color: cadetblue;
+    color: white;
+    border: darkcyan;
+
+}
+.teamImages > div{
+    height: inherit;
+    position: relative;
+}
+
+#team2,#team1{
+    position: absolute;
+}
+#team1{
+    top:-100px;
+    z-index: 10;
+}
+#team2{
+   top:150px;
+   left:360px;
+   z-index: 20;
+}

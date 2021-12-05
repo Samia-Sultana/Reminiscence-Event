@@ -1,0 +1,24 @@
+.checkoutForm{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+      
+}
+.shippmentPart{
+    width:40%;
+    
+}
+#paymentPart{
+    width:50%;
+    padding:20px;
+    display: none;
+}
+.shipmentButton{
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(154, 185, 241);
+    border-color: rgb(120, 157, 226);
+    border-radius: 4px;
+}

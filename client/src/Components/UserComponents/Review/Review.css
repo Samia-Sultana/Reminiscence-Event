@@ -1,0 +1,19 @@
+.reviewForm{
+}
+.reviewPage{
+    width: 70%;
+    margin: auto;
+}
+.oneRow{
+    margin: auto;
+    width: 60%;
+}
+.oneRow:nth-child(3){
+    width: 75%;
+}
+.oneRow:nth-child(4){
+    width:10%;
+}
+.oneRow > Button{
+    width: 100%;
+}
